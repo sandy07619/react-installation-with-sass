@@ -1,5 +1,14 @@
 # installing react through nvm and sass process
-How to use sass in react using create-react-app 2
+
+installing with nvm allows you to manage the versions
+
+install node through : 
+https://nodesource.com/blog/installing-node-js-tutorial-using-nvm-on-mac-os-x-and-ubuntu/
+
+install create-react-app through :
+npm install -g create-react-app
+
+# How to use sass in react using create-react-app 2
 
 check the package.json for 'react-scripts' this should be greater than 2.0.3
 
