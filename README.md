@@ -6,7 +6,8 @@ install node through :
 https://nodesource.com/blog/installing-node-js-tutorial-using-nvm-on-mac-os-x-and-ubuntu/
 
 install create-react-app through :
-npm install -g create-react-app
+npm i create-react-app
+# Note: if done through -g then uninstall using, npm unistall -g create-react-app
 
 # How to use sass in react using create-react-app 2
 
